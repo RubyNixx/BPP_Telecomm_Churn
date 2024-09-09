@@ -1,10 +1,11 @@
 <b>Topic:</b> Programming for Data Analysts
+
 <b>Assignment:</b> 1 - Produce a python notebook to answer the business problem.
 
 
 The python file can be found within this repository or alternatively opened in google colab below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USERNAME/REPO/blob/BRANCH/PATH/TO/NOTEBOOK.ipynb](https://colab.research.google.com/drive/1VVJBRud9zGyRA-w-PMuqUZuURGZLU-9I#scrollTo=z6qkxuUH8NmF))
+[[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/USERNAME/REPO/blob/BRANCH/PATH/TO/NOTEBOOK.ipynb](https://colab.research.google.com/drive/1VVJBRud9zGyRA-w-PMuqUZuURGZLU-9I#scrollTo=z6qkxuUH8NmF))](https://colab.research.google.com/github/RubyNixx/BPP_Telecomm_Churn/blob/main/Programming_For_Analysts_Business_Problem.ipynb)
 
 Project: Analysing historic customer churn at BPP Telecom and prediciting future churn.
 
